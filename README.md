@@ -21,7 +21,10 @@ Github link for all files inside:
 
 Docker Hub [Link](https://hub.docker.com/r/irfanuruchi/distributed-edge-mini-cloud)
 
-If any issue arrises or you want to contributed feel free to use this GitHub Repo to report bugs or suggest improvements.
+Docker link for Node 2: [Link](https://hub.docker.com/r/irfanuruchi/llm-proxy)
+
+
+If any issue arrises or you want to contribute feel free to use this GitHub Repo to report bugs or suggest improvements.
 
 ---
 ## Quick start
