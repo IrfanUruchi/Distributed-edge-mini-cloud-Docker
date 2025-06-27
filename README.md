@@ -17,11 +17,11 @@ Built for both **linux/amd64** and **linux/arm64**.
 ## Links
 
 Github link for all files inside:
-[Image files exluding the dockerfile and another file](https://github.com/IrfanUruchi/Edge-Distributed-Mini-Cloud-System)
+[Image files](https://github.com/IrfanUruchi/Edge-Distributed-Mini-Cloud-System)
 
-Docker Hub [Link](https://hub.docker.com/r/irfanuruchi/distributed-edge-mini-cloud)
+Docker Hub [Main node Docker Image](https://hub.docker.com/r/irfanuruchi/distributed-edge-mini-cloud)
 
-Docker link for Node 2: [Link](https://hub.docker.com/r/irfanuruchi/llm-proxy)
+Docker Hub 2: [Link for Node 2](https://hub.docker.com/r/irfanuruchi/llm-proxy)
 
 
 If any issue arrises or you want to contribute feel free to use this GitHub Repo to report bugs or suggest improvements.
